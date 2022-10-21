@@ -46,9 +46,9 @@ https://docs.google.com/document/d/1qdD_lNG7CtRKakjFQ7bXRO-TnJ4NF4RUoO258f0YRSE/
 
 ## Usage
 
-After download and decompress file, it has folder DECO3500 - Student Perspective Updated Zoom and folder DECO3500 - Teacher Perspective Updated Zoom(1).
+After download and decompress file, it has folder DECO3500 - Student Perspective Updated Zoom and folder DECO3500 - Teacher Perspective Updated Zoom.
 In folder DECO3500 - Student Perspective Updated Zoom, it has Chat function, Camera function and Video Sharing Function by student view. 
-In folder DECO3500 - Teacher Perspective Updated Zoom(1), it has Chat function, Camera function and Video Sharing Function by teacher view.
+In folder DECO3500 - Teacher Perspective Updated Zoom, it has Chat function, Camera function and Video Sharing Function by teacher view.
 
 To run the prototype please open index.html in each folder.
 
